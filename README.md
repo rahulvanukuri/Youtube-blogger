@@ -1,2 +1,3 @@
 # Youtube-blogger
-Read Youtube videos from handles and summarizes and automates the research process and using multi agent systems
+Read Youtube videos from handles and summarizes and automates the research process and using multi agent systems.The above project uses CrewAI framework and creates a multiagent system and connects the first agent which is the video handler analyzer and writes the blogs and this information is passed on the expert agent to make sense of this information and tells the main content and what can be added to the additionally to improvise the content and so on to run we need to input the openAPI key from the chatgpt platform and also use the youtube api for reading the transcript of the video or install it using it in python and to run please install the dependencies of the CrewAI framework and be sure to the change the handle of the youtuber and also to run you just need to use the crew.py file.
+
